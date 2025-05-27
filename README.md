@@ -1,2 +1,3 @@
 # Car-website-Project
-This website HTML CSS and Javascript
+This website based on  HTML CSS and Javascript technology.
+Author - Noor Kanwal
